@@ -42,7 +42,7 @@
 		6C43F5F425CD882400D9B26D = {
 			isa = PBXGroup;
 			children = (
-				6C43F5FF25CD882400D9B26D /* SwiftUI_Project2(Grid) */,
+				6C43F5FF25CD882400D9B26D /* SwiftUI_Project2(Slider) */,
 				6C43F5FE25CD882400D9B26D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6C43F5FF25CD882400D9B26D /* SwiftUI_Project2(Grid) */ = {
+		6C43F5FF25CD882400D9B26D /* SwiftUI_Project2(Slider) */ = {
 			isa = PBXGroup;
 			children = (
 				6C43F61525CD905A00D9B26D /* Extension */,
@@ -66,7 +66,7 @@
 				6C43F60E25CD882600D9B26D /* Info.plist */,
 				6C43F60825CD882600D9B26D /* Preview Content */,
 			);
-			path = "SwiftUI_Project2(Grid)";
+			path = "SwiftUI_Project2(Slider)";
 			sourceTree = "<group>";
 		};
 		6C43F60825CD882600D9B26D /* Preview Content */ = {
@@ -120,7 +120,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6C43F5F825CD882400D9B26D /* Build configuration list for PBXProject "SwiftUI_Project2(Grid)" */;
+			buildConfigurationList = 6C43F5F825CD882400D9B26D /* Build configuration list for PBXProject "SwiftUI_Project2(Slider)" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -302,12 +302,12 @@
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUI_Project2(Grid)/Preview Content\"";
 				DEVELOPMENT_TEAM = 4WVK4KG35K;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "SwiftUI_Project2(Grid)/Info.plist";
+				INFOPLIST_FILE = "SwiftUI_Project2(Slider)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.seonjung.SwiftUI-Project2-Grid-";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.seonjung.SwiftUI-Project2-Slider-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -323,12 +323,12 @@
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUI_Project2(Grid)/Preview Content\"";
 				DEVELOPMENT_TEAM = 4WVK4KG35K;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "SwiftUI_Project2(Grid)/Info.plist";
+				INFOPLIST_FILE = "SwiftUI_Project2(Slider)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.seonjung.SwiftUI-Project2-Grid-";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.seonjung.SwiftUI-Project2-Slider-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -338,7 +338,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6C43F5F825CD882400D9B26D /* Build configuration list for PBXProject "SwiftUI_Project2(Grid)" */ = {
+		6C43F5F825CD882400D9B26D /* Build configuration list for PBXProject "SwiftUI_Project2(Slider)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6C43F60F25CD882600D9B26D /* Debug */,
